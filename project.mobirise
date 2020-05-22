@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "migaleria.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -513,7 +513,7 @@
         }
       ]
     },
-    "page1.html": {
+    "migaleria.html": {
       "settings": {
         "meta_descr": "Página donde dejo las fotos que recién he tomado, y comento mi experiencia.",
         "title": "Mi galeria",
